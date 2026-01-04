@@ -1,3 +1,3 @@
 return function()
-	print("Hello, im a fish!")
+	print("aok lah kayyyyy")
 end
